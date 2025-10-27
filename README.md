@@ -7,4 +7,9 @@ Eva Driggs, Athena Lam, James B. Henderson, Vera de Ferran, Diego Santiago, Patr
 
 Additional collection and collaborator: Jefferson Loor.
 
+Please feel free to reach out to me with any questions about the data or code!
 
+Best,
+Eva Driggs
+calacademy email: ejasinskidriggs@calacademy.org
+permanent email: evajasinski@gmail.com
