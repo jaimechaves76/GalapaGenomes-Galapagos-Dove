@@ -3,7 +3,5 @@
 *.pbi
 *.fq.gz
 
-# MD5 check related files
-*MD5*
-*md5*
-index.html
+data/
+output/
