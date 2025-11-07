@@ -1,0 +1,1 @@
+/home/jhenderson/dove/reads/HiFi/clean/clean_hifi_fastq.sh

@@ -1,0 +1,1 @@
+/ccg/bin/remove_hifi_reads_lt_1000_or_w_adapter.sh

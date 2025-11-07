@@ -1,0 +1,1 @@
+/ccg/bin/hifibam2fastq.sh
