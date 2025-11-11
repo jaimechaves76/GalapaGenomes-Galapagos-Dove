@@ -1,0 +1,1 @@
+/home/ejasinskidriggs/galapagos_dove_project/genome_dove/GalapaGenomes-Galapagos-Dove/scripts/04.post_clean_fastqc/fastqc_single_genome.sh

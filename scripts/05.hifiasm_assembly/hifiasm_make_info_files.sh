@@ -1,0 +1,1 @@
+/ccg/bin/hifiasm_make_info_files.sh
