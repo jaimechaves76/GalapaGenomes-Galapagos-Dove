@@ -1,0 +1,3 @@
+hifiasm 0.25.0-r726
+hifiasm --write-ec -t 96 --telo-m CCCTAA /home/ejasinskidriggs/galapagos_dove_project/genome_dove/GalapaGenomes-Galapagos-Dove/output/03.clean_adapters/m84286_250729_002700_s2_GalDove.cln.fq.gz
+
