@@ -2,6 +2,7 @@
 *.bam
 *.pbi
 *.fq.gz
+*.fastq.gz
 
 data/
 output/
