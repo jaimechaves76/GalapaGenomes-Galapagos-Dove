@@ -1,0 +1,1 @@
+/ccg/bin/gfa2fasta.sh

@@ -1,0 +1,1 @@
+/ccg/bin/summary_from_busco_full_tables.sh
