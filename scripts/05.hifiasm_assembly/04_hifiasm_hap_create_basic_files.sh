@@ -1,1 +1,0 @@
-/ccg/bin/hifiasm_hap_create_basic_files.sh

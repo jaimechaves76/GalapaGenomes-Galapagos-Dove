@@ -1,1 +1,0 @@
-/ccg/bin/asmstats.pl

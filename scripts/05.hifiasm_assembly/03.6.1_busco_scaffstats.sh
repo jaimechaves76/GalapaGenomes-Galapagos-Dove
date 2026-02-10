@@ -1,1 +1,0 @@
-/ccg/bin/busco_scaffstats.sh

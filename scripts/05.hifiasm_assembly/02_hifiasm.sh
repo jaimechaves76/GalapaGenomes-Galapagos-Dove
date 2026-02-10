@@ -1,1 +1,0 @@
-/ccg/bin/hifiasm.sh

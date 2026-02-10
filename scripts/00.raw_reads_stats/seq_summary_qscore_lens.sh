@@ -1,1 +1,0 @@
-/ccg/bin/seq_summary_qscore_lens.sh

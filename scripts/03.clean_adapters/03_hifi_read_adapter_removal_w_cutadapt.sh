@@ -1,1 +1,0 @@
-/ccg/bin/hifi_read_adapter_removal_w_cutadapt.sh

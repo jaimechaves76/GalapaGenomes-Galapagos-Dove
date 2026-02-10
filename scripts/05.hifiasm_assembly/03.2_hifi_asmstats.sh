@@ -1,1 +1,0 @@
-/ccg/bin/hifi_asmstats.sh

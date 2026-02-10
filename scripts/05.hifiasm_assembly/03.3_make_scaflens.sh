@@ -1,1 +1,0 @@
-/ccg/bin/make_scaflens.sh

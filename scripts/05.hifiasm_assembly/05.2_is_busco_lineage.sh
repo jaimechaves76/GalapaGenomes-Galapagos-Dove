@@ -1,1 +1,0 @@
-/ccg/bin/is_busco_lineage.sh

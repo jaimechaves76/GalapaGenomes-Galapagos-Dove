@@ -1,1 +1,0 @@
-/ccg/bin/make_scaff_order_busco_tsv.sh

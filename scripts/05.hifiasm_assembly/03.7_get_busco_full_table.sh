@@ -1,1 +1,0 @@
-/ccg/bin/get_busco_full_table.sh
